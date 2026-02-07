@@ -45,7 +45,7 @@ https://github.com/monishh13/advml-project
 
 ### Stock Time Series Modelling
 Applied AR/MA techniques and stationarity checks to automate historical price forecasting.  
-https://github.com/monishh13/nlp-stockpricemodelling
+https://github.com/monishh13/StockPrice_Modeling_Using_AR_MA_Models
 
 ### Full-Stack Web App
 Co-engineered a RESTful system using Spring Boot and React in a team environment, focusing on modular API integration and seamless frontend–backend synchronization.  
@@ -71,4 +71,5 @@ https://monastery360.netlify.app/
 **Bachelor of Engineering – Computer Science and Engineering**  
 Sri Krishna College of Technology, Coimbatore  
 **Expected Graduation:** 2027
+
 
