@@ -2,7 +2,7 @@
 **Computer Science Student | Python, Data Analysis & ML**
 
 📍 Coimbatore  
-🔗 LinkedIn  
+🔗 LinkedIn  https://www.linkedin.com/in/monishkumar1/
 📧 monishkumar1141@gmail.com  
 
 ---
@@ -71,3 +71,4 @@ https://monastery360.netlify.app/
 **Bachelor of Engineering – Computer Science and Engineering**  
 Sri Krishna College of Technology, Coimbatore  
 **Expected Graduation:** 2027
+
